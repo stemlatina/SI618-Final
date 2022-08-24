@@ -1,5 +1,2 @@
-# SI618-Final
+# SI618-Final - NLP Harry Potter Series Analysis: Analyzing Key Characteristics, Sentiment and Popularity Amongst Houses
 
-#Work In Progress
-
-#Working Title: Bias in Harry Potter - Analyzing Popularity and Bias Amongst Houses, Characters and Blood Type
